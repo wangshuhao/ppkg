@@ -1,0 +1,10 @@
+{
+	"project_path": "you project path",
+	"repo_cache": "_SDK",
+	"repo": "your git repo address",
+	"projects": {
+		"yourproject": [
+			"your private nodejs module name"
+		]
+	}
+}
